@@ -1,2 +1,2 @@
 # journal-wants-word
-Many journals want the paper in Word. But you wrote it in LaTeX on Overleaf with the only people you talk to anymore. What now?
+A Shiny App that converts the paper you wrote in Overleaf into a Word document that looks like it's from 2007 because some journal whose entire submission portal looks like it's from 2007.
